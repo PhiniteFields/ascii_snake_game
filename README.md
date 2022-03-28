@@ -3,4 +3,4 @@ ASCII Snake Game - In Python (Of Course)
 
 This is a simple ASCII based snake game written over the weekend. It uses Python and the Curses library.  
 
-Use arrow keys to move.  Eat all the food (green numbers) to win.  Avoid walls, monsters, and your own tail!  Have fun.
+Use the arrow keys to move.  Eat all the food (green numbers) to win.  Avoid walls, monsters, and your own tail!  Have fun.
