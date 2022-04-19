@@ -27,7 +27,6 @@ import curses
 import locale
 from curses import wrapper
 from random import randint, random
-from turtle import pos
 
 
 class Symbols:
